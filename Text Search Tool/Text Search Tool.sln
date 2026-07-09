@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Search Tool", "Text Search Tool\Text Search Tool.csproj", "{82618824-E587-490C-9CEA-B2BEDB687900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82618824-E587-490C-9CEA-B2BEDB687900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82618824-E587-490C-9CEA-B2BEDB687900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82618824-E587-490C-9CEA-B2BEDB687900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82618824-E587-490C-9CEA-B2BEDB687900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C3EF9C-0F69-4AA9-BCBB-0BFFA7B526F3}
+	EndGlobalSection
+EndGlobal
